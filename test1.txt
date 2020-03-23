@@ -1,0 +1,10 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is 5415-C6A1
+
+ Directory of C:\Users\indcr\Desktop\My Project
+
+03/23/2020  01:55 PM    <DIR>          .
+03/23/2020  01:55 PM    <DIR>          ..
+03/23/2020  01:55 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  422,321,225,728 bytes free
